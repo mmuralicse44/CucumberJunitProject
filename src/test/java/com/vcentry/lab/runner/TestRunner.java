@@ -13,7 +13,7 @@ plugin = {"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"
 monochrome = true, // readable console
 dryRun= false, //dry run to check feature file steps
                  //were implemented in TestSteps
-tags="@validlogin or @sanity"
+tags="@validlogin or @sanity "
 			)
 public class TestRunner {
 
